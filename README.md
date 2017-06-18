@@ -15,6 +15,10 @@ react组件及相关依赖使用webpack打包，实际应用环境只引用打�
 
 
 还要感谢以下项目的作者：
+
 react-bootstrap：https://github.com/react-bootstrap/react-bootstrap
+
 referrer-killer: https://github.com/jpgerek/referrer-killer
+
 blueimp-md5: https://github.com/blueimp/JavaScript-MD5
+
